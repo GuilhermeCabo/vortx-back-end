@@ -18,7 +18,8 @@
     "reflect-metadata": "^0.1.13",
     "round-to": "^4.1.0",
     "ts-node": "^8.10.2",
-    "tsyringe": "^4.3.0"
+    "tsyringe": "^4.3.0",
+    "tsconfig-paths": "^3.9.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
@@ -31,7 +32,6 @@
     "jest": "^26.0.1",
     "ts-jest": "^26.1.0",
     "ts-node-dev": "^1.0.0-pre.44",
-    "tsconfig-paths": "^3.9.0",
     "typescript": "^3.9.3"
   }
 }
